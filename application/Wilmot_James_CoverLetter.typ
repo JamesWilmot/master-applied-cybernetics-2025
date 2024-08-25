@@ -43,12 +43,24 @@ The Australian National University
 
 I am writing to apply for the 2025 intake of the _Master of Applied Cybernetics_ degree.
 
+I'm a volunteer, research software engineer, adventure bike tourer, harvest farm operations hand,
+professional website and web application developer who has worked in
+non-for-profit, government, university and private sectors.
+
+The project I'm currently working is opendata.fit/opendata.studio: a declarative
+data analysis and publication platform for reproducibility and publication.
+My interests and specialisation in the project are research data standardisation, schemas and specifications
+as well as metadata and provenance management. 
+
 I believe in contributing to community and its power to build connection,
 resilience and inspiration. I’ve been a rescue volunteer with the NSW State
 Emergency Service, taught ethics as an alternative to Special Religious
 Education in public schools delivered by Primary Ethics, mentored autistic
 children in The Lab technology clubs and worked at a charity op-shop as a
 volunteer.
+
+I help run a makerspace based in Giralang ACT—#link("https://canberramaker.space")[Canberra Makerspace]—which 
+provides a workshop and meeting space for the Canberra community.
 
 A common thread in my professional and community roles is an interest in
 workspace and workshop ergonomics. Specifically, the task of how to create tools
@@ -73,5 +85,4 @@ James
 
 #set text(11pt, weight: "regular")
 #fa-icon("envelope") #link("mailto:jameswilmot2000@gmail.com")[jameswilmot2000\@gmail.com]
-
-#fa-icon("github") #link("https://github.com/JamesWilmot/")[JamesWilmot]
+| #fa-icon("github") #link("https://github.com/JamesWilmot/")[JamesWilmot]
